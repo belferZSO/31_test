@@ -20,19 +20,15 @@ body {
     border-radius: 10px;
 }
 
-/* Filtr dla pierwszego zdjęcia */
 .filter1:hover {
     filter: grayscale(100%);
 }
 
-/* Filtr dla drugiego zdjęcia */
 .filter2:hover {
     filter: sepia(100%);
 }
 
-/* Filtr dla trzeciego zdjęcia */
 .filter3:hover {
     filter: blur(2px);
 }
 
-/* Dodaj więcej klas filtrów według potrzeb */
